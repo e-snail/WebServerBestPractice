@@ -8,5 +8,5 @@
 
 ##### [<Building a RESTful Web Service>](http://spring.io/guides/gs/rest-service/#initial)
     "Caused by: java.lang.IllegalStateException: Tomcat connector in failed state"
-    
+
     fixed: $java -jar target/gs-rest-service-0.1.0.jar --server.port=8181
