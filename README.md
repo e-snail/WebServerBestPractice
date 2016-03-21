@@ -10,3 +10,7 @@
     "Caused by: java.lang.IllegalStateException: Tomcat connector in failed state"
 
     fixed: $java -jar target/gs-rest-service-0.1.0.jar --server.port=8181
+
+
+##### other
+##### [ 使用spring4和hibernate4搭建一个springmvc的框架](http://blog.csdn.net/wodemaya8/article/details/45247607)
